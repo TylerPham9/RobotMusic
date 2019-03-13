@@ -1,0 +1,11 @@
+numpy
+pandas
+librosa
+requests
+
+glob2
+h5py
+music21
+keras
+tensorflow
+editdistance

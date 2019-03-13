@@ -1,2 +1,2 @@
 # RobotMusic
-CMPT419 Music Generation with RNN
+CMPT419 Music Synthesization with RNN

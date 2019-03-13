@@ -1,0 +1,6 @@
+venv/
+videos/*.mp4
+data/*.csv
+.idea/
+*.mid*
+__pycache__
